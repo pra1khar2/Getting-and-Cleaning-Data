@@ -11,7 +11,7 @@ Author: Prakhar Gupta <br />
 
 Goal | Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/run_analysis.R "run_analysis.R")
+Analysis R Script |  run_analysis.R | 
 Tidy Data Set |  Clean Data Set |
 Github Repo | Repo |  
 Cookbook | CodeBook.md |
